@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+primaryColor="#c0e333ff"    
+.stApp {
+    background: linear-gradient(180deg, #0b0b0b 0%, #111111 50%, #0b0b0b 100%);
+}
+  # Netflix Red
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#1C1E26"
+textColor="#ffffffff"
+font="sans serif"
