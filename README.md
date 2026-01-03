@@ -82,8 +82,6 @@ Built a simple yet interactive UI using **Streamlit**:
 
 The application is deployed using **Streamlit Cloud**, making it accessible via a browser without any local setup.
 
-🔗 *Live Demo:*  
-👉 **[Streamlit App Link Here]**
 
 ### 📸 App Preview
 
